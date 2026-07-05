@@ -1,6 +1,6 @@
-# ai-sec-agent
+# ai-tm-agent
 
-Local security assessment agent for Draw.io and PDF architecture diagrams.
+Local security assessment (threat modelling) agent for Draw.io and PDF architecture diagrams.
 
 ## What it does
 
